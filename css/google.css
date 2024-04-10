@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-color: rgb(219, 217, 217);
+}
+
+.main-area .google-text{
+    font-family: tahoma;
+font-size: 90px;
+margin-top: 150px;
+margin-bottom: -65px;
+text-align: center;
+}
+
+.main-area .gg{
+    color: blue;
+}
+
+.main-area .oe{
+    color: rgb(255, 89, 0);
+}
+
+.main-area .o{
+    color: rgb(254, 251, 58);
+}
+
+.main-area .l{
+    color: green;
+}
+
+.container{
+    width: 40%;
+    margin: auto;
+}
+
+.main-area .search-box{
+    width: 500px;
+}
+
+.main-area .search-box input{
+    width: 500px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+}
+
+.main-area .button-area{
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.main-area .container{
+    margin: auto;
+}
+
+.footer-area .google-afried ul{
+    overflow: hidden;
+}
+
+.footer-area .google-afried ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 7px;
+}
+
+.footer-area .google-afried ul li a{
+    text-decoration: none;
+}
